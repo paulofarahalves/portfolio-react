@@ -11,5 +11,3 @@
 This application uses information from juliomanta.com
 
 ### Usage
-
-https://paulofarahalves.github.io/portfolio-react/
