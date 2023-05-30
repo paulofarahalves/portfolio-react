@@ -61,9 +61,10 @@ export const HeaderArea = styled.div`
 				margin-right: 10px;
 
 				a {
-			font-size: 12px;
-			font-weight: 600;
-			margin-left: 10px;
+					font-size: 12px;
+					font-weight: 600;
+					margin-left: 10px;
+				}
 			}
 		}
 	}
