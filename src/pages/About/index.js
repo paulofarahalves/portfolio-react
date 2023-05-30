@@ -11,14 +11,17 @@ export default function About() {
 			<Header />
 			<motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
 				<PageArea>
-					<h1>More about me</h1>
+					<h1>About me</h1>
 
 					<div className="area">
 						<div className="leftSide">
 							<div className="icons">
-								<Icon title={'linkedin'} />
-								<Icon title={'email'} />
-								<Icon title={'whatsapp'} />
+								<div className="social">
+									<Icon title={'linkedin'} />
+									<Icon title={'email'} />
+									<Icon title={'whatsapp'} />
+								</div>
+
 								<Icon title={'resume'} />
 								<Icon title={'location'} />
 							</div>

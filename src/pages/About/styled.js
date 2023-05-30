@@ -22,7 +22,7 @@ export const PageArea = styled.div`
 
 			p {
 				margin-top: 20px;
-				font-size: 20px;
+				font-size: 18px;
 				line-height: 35px;
 				text-align: justify;
 			}
@@ -31,12 +31,55 @@ export const PageArea = styled.div`
 				display: flex;
 				flex-direction: row;
 				justify-content: center;
+
+				.social {
+					display: flex;
+					flex-direction: row;
+					justify-content: center;
+				}
 			}
 		}
 
 		.rightSide {
 			flex: 1;
-			background-color: green;
+			text-align: center;
+		}
+	}
+
+	@media (max-width: 1024px) {
+		padding: 100px 50px;
+
+		.area {
+			.leftSide {
+				p {
+					font-size: 15px;
+					line-height: 30px;
+				}
+			}
+		}
+	}
+
+	@media (max-width: 768px) {
+		.area {
+			flex-direction: column;
+			.rightSide {
+				margin-top: 30px;
+			}
+		}
+	}
+
+	@media (max-width: 425px) {
+		.area {
+			.leftSide {
+				p {
+					text-align: center;
+				}
+
+				.icons {
+					flex-direction: column;
+					align-items: center;
+				}
+			}
 		}
 	}
 `;

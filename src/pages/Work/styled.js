@@ -19,7 +19,7 @@ export const PageArea = styled.div`
 		.filter {
 			margin-left: 10px;
 			margin-right: 10px;
-			padding: 20px;
+			padding: 10px;
 			border-radius: 5px;
 			transition: all ease 0.3s;
 			cursor: pointer;
@@ -39,5 +39,28 @@ export const PageArea = styled.div`
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
 		grid-gap: 30px;
+	}
+
+	@media (max-width: 1024px) {
+		padding: 100px 50px;
+
+		.workList {
+			grid-template-columns: repeat(3, 1fr);
+		}
+	}
+
+	@media (max-width: 768px) {
+		.workList {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+
+	@media (max-width: 425px) {
+		.filters {
+			flex-direction: column;
+		}
+		.workList {
+			grid-template-columns: repeat(1, 1fr);
+		}
 	}
 `;

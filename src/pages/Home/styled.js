@@ -46,7 +46,12 @@ export const PageArea = styled.div`
 
 		.icons {
 			display: flex;
-			flex-direction: row-gap;
+			flex-direction: row;
+
+			.social {
+				display: flex;
+				flex-direction: row;
+			}
 		}
 	}
 
@@ -56,6 +61,55 @@ export const PageArea = styled.div`
 		img {
 			height: 600px;
 			padding-top: 40px;
+		}
+	}
+
+	@media (max-width: 1024px) {
+		padding: 50px 50px;
+
+		.rightSide {
+			img {
+				height: 500px;
+				padding-top: 40px;
+			}
+		}
+	}
+
+	@media (max-width: 768px) {
+		flex-direction: column;
+		position: relative;
+		top: auto;
+		left: auto;
+		-webkit-transform: none;
+		transform: none;
+	}
+
+	@media (max-width: 425px) {
+		padding: 100px 20px;
+
+		.leftSide {
+			text-align: center;
+
+			h4 span {
+				display: none;
+			}
+
+			.icons {
+				flex-direction: column;
+				justify-content: center;
+				align-items: center;
+			}
+
+			.observation {
+				margin-top: 20px;
+				font-size: 11px;
+			}
+		}
+
+		.rightSide {
+			img {
+				height: 300px;
+			}
 		}
 	}
 `;

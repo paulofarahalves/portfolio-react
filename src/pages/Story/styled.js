@@ -27,16 +27,34 @@ export const PageArea = styled.div`
 				padding-right: 20px;
 				text-align: justify;
 			}
-
-			.icons {
-				display: flex;
-				flex-direction: row;
-				justify-content: center;
-			}
 		}
 
 		.rightSide {
 			flex: 1.1;
+		}
+	}
+
+	@media (max-width: 1024px) {
+		padding: 100px 50px;
+	}
+
+	@media (max-width: 425px) {
+		.area {
+			flex-direction: column;
+
+			.leftSide {
+				p {
+					margin-top: 0;
+					margin-bottom: 20px;
+					padding-right: 0;
+					text-align: center;
+				}
+			}
+
+			.rightSide {
+				margin-top: 20px;
+				flex: 1;
+			}
 		}
 	}
 `;

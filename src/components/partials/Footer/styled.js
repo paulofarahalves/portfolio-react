@@ -32,4 +32,11 @@ export const FooterArea = styled.div`
 			}
 		}
 	}
+
+	@media (max-width: 425px) {
+		height: auto;
+		.container {
+			flex-direction: column;
+		}
+	}
 `;

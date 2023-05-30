@@ -18,7 +18,8 @@ export default function Home() {
 							<h3>WELCOME !</h3>
 							<h1>Júlio Manta Roberto</h1>
 							<h4>
-								Project Management • Business Analysis •
+								Project Management <span> • </span>Business
+								Analysis <span> • </span>
 								Financial Analysis
 							</h4>
 							<p>
@@ -27,9 +28,12 @@ export default function Home() {
 								Committed to continuous improvement.
 							</p>
 							<div className="icons">
-								<Icon title={'linkedin'} />
-								<Icon title={'email'} />
-								<Icon title={'whatsapp'} />
+								<div className="social">
+									<Icon title={'linkedin'} />
+									<Icon title={'email'} />
+									<Icon title={'whatsapp'} />
+								</div>
+
 								<Icon title={'resume'} />
 							</div>
 							<p className="observation">

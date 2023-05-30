@@ -36,4 +36,12 @@ export const IconItem = styled.div`
 			margin-left: 5px;
 		}
 	}
+
+	@media (max-width: 425px) {
+		a {
+			margin: 20px 10px 0px 10px;
+			width: 40px;
+			height: 40px;
+		}
+	}
 `;

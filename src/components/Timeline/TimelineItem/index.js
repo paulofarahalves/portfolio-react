@@ -8,7 +8,7 @@ import {
 } from '../../../helpers/colors';
 
 export default function TimelineItem({ title, subtitle, date, icon }) {
-	const width = '600px';
+	const width = 'inherit';
 	return (
 		<VerticalTimelineElement
 			className="vertical-timeline-element--education"

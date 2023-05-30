@@ -42,4 +42,29 @@ export const HeaderArea = styled.div`
 			}
 		}
 	}
+
+	@media (max-width: 1024px) {
+		.container {
+			padding: 20px 50px;
+		}
+	}
+
+	@media (max-width: 425px) {
+		.container {
+			padding: 20px 0px;
+			justify-content: center;
+
+			.leftSide {
+				display: none;
+			}
+			.rightSide {
+				margin-right: 10px;
+
+				a {
+			font-size: 12px;
+			font-weight: 600;
+			margin-left: 10px;
+			}
+		}
+	}
 `;
