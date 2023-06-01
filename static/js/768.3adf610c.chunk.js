@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuliomanta=self.webpackChunkjuliomanta||[]).push([[768],{768:function(a,e,s){a.exports=s.p+"static/media/sedra.581b98e4afac19bdc574.png"}}]);

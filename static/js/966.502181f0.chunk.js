@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjuliomanta=self.webpackChunkjuliomanta||[]).push([[966],{966:function(e,a,s){e.exports=s.p+"static/media/buyself.fdf012ced20ea0908919.png"}}]);

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://juliomanta.com/new/static/css/main.5f57aa0f.css",
+    "main.js": "https://juliomanta.com/new/static/js/main.0a08429c.js",
+    "static/js/73.eb9c6261.chunk.js": "https://juliomanta.com/new/static/js/73.eb9c6261.chunk.js",
+    "static/js/966.502181f0.chunk.js": "https://juliomanta.com/new/static/js/966.502181f0.chunk.js",
+    "static/js/805.501c36e9.chunk.js": "https://juliomanta.com/new/static/js/805.501c36e9.chunk.js",
+    "static/js/768.3adf610c.chunk.js": "https://juliomanta.com/new/static/js/768.3adf610c.chunk.js",
+    "static/media/about.png": "https://juliomanta.com/new/static/media/about.ce2e9fc786bb1934b573.png",
+    "static/media/profile.png": "https://juliomanta.com/new/static/media/profile.5d3ac8731130b909d703.png",
+    "static/media/bluemater.png": "https://juliomanta.com/new/static/media/bluemater.675138f1dc68de8f775d.png",
+    "static/media/sedra.png": "https://juliomanta.com/new/static/media/sedra.581b98e4afac19bdc574.png",
+    "static/media/Julio_M_Roberto_Resume.pdf": "https://juliomanta.com/new/static/media/Julio_M_Roberto_Resume.692f488f44bc6eaea795.pdf",
+    "static/media/buyself.png": "https://juliomanta.com/new/static/media/buyself.fdf012ced20ea0908919.png",
+    "static/media/inegi.png": "https://juliomanta.com/new/static/media/inegi.54dc7b1e1af11f745bfe.png",
+    "index.html": "https://juliomanta.com/new/index.html",
+    "main.5f57aa0f.css.map": "https://juliomanta.com/new/static/css/main.5f57aa0f.css.map",
+    "main.0a08429c.js.map": "https://juliomanta.com/new/static/js/main.0a08429c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f57aa0f.css",
+    "static/js/main.0a08429c.js"
+  ]
+}
