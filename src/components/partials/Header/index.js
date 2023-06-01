@@ -7,7 +7,7 @@ export default function Header() {
 		<HeaderArea>
 			<div className="container">
 				<div className="leftSide">
-					<Link to={'/home'}>JÚLIO MANTA</Link>
+					<Link to={'/portfolio-react/home'}>JÚLIO MANTA</Link>
 				</div>
 				<div className="rightSide">
 					<NavLink
