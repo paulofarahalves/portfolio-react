@@ -15,13 +15,13 @@ const App = () => {
 		<div className="app">
 			<AnimatePresence>
 				<Routes location={location} key={location.pathname}>
-					<Route path="/new" element={<Home />} />
-					<Route path="/new/home" element={<Home />} />
-					<Route path="/new/about" element={<About />} />
-					<Route path="/new/work" element={<Work />} />
-					<Route path="/new/story" element={<Story />} />
-					<Route path="/new/contact" element={<Contact />} />
-					<Route path="/new/*" element={<Notfound />} />
+					<Route path="/" element={<Home />} />
+					<Route path="/home" element={<Home />} />
+					<Route path="/about" element={<About />} />
+					<Route path="/work" element={<Work />} />
+					<Route path="/story" element={<Story />} />
+					<Route path="/contact" element={<Contact />} />
+					<Route path="*" element={<Notfound />} />
 				</Routes>
 			</AnimatePresence>
 		</div>
