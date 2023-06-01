@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://paulofarahalves.github.io/portfolio-react/static/css/main.5f57aa0f.css",
-    "main.js": "https://paulofarahalves.github.io/portfolio-react/static/js/main.55e9ff7c.js",
+    "main.js": "https://paulofarahalves.github.io/portfolio-react/static/js/main.4cc90968.js",
     "static/js/73.eb9c6261.chunk.js": "https://paulofarahalves.github.io/portfolio-react/static/js/73.eb9c6261.chunk.js",
     "static/js/966.502181f0.chunk.js": "https://paulofarahalves.github.io/portfolio-react/static/js/966.502181f0.chunk.js",
     "static/js/805.501c36e9.chunk.js": "https://paulofarahalves.github.io/portfolio-react/static/js/805.501c36e9.chunk.js",
@@ -15,10 +15,10 @@
     "static/media/inegi.png": "https://paulofarahalves.github.io/portfolio-react/static/media/inegi.54dc7b1e1af11f745bfe.png",
     "index.html": "https://paulofarahalves.github.io/portfolio-react/index.html",
     "main.5f57aa0f.css.map": "https://paulofarahalves.github.io/portfolio-react/static/css/main.5f57aa0f.css.map",
-    "main.55e9ff7c.js.map": "https://paulofarahalves.github.io/portfolio-react/static/js/main.55e9ff7c.js.map"
+    "main.4cc90968.js.map": "https://paulofarahalves.github.io/portfolio-react/static/js/main.4cc90968.js.map"
   },
   "entrypoints": [
     "static/css/main.5f57aa0f.css",
-    "static/js/main.55e9ff7c.js"
+    "static/js/main.4cc90968.js"
   ]
 }
