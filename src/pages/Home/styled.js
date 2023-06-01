@@ -57,22 +57,18 @@ export const PageArea = styled.div`
 
 	.rightSide {
 		flex: 1;
+		display: flex;
+		justify-content: center;
+		align-items: flex-start;
 
 		img {
 			height: 600px;
-			padding-top: 40px;
+			margin-top: -40px;
 		}
 	}
 
 	@media (max-width: 1024px) {
 		padding: 50px 50px;
-
-		.rightSide {
-			img {
-				height: 500px;
-				padding-top: 40px;
-			}
-		}
 	}
 
 	@media (max-width: 768px) {
@@ -109,6 +105,7 @@ export const PageArea = styled.div`
 		.rightSide {
 			img {
 				height: 300px;
+				margin-top: 0px;
 			}
 		}
 	}

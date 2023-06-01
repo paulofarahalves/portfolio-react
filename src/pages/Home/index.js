@@ -41,11 +41,7 @@ export default function Home() {
 							</p>
 						</div>
 						<div className="rightSide">
-							<img
-								//src="https://belaltheme.com/Tp/Masud/Masud/images/banner.png"
-								src={ProfileImage}
-								alt=""
-							/>
+							<img src={ProfileImage} alt="" />
 						</div>
 					</PageArea>
 				</motion.div>

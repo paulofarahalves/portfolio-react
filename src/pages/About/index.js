@@ -4,6 +4,7 @@ import { PageArea } from './styled';
 import Header from '../../components/partials/Header';
 import Footer from '../../components/partials/Footer';
 import Icon from '../../components/partials/Icon';
+import Photo from '../../assets/images/personal/about.png';
 
 export default function About() {
 	return (
@@ -46,7 +47,9 @@ export default function About() {
 								learn, and I am just getting started.
 							</p>
 						</div>
-						<div className="rightSide">Fotos</div>
+						<div className="rightSide">
+							<img src={Photo} alt="About" />
+						</div>
 					</div>
 				</PageArea>
 			</motion.div>

@@ -16,13 +16,14 @@ export const PageArea = styled.div`
 		align-items: center;
 		justify-content: space-between;
 		padding: 0;
+		margin-top: 20px;
 
 		.leftSide {
 			flex: 1;
 
 			p {
 				margin-top: 20px;
-				font-size: 18px;
+				font-size: 16px;
 				line-height: 35px;
 				text-align: justify;
 			}
@@ -42,7 +43,14 @@ export const PageArea = styled.div`
 
 		.rightSide {
 			flex: 1;
-			text-align: center;
+			display: flex;
+			justify-content: center;
+			align-items: flex-end;
+
+			img {
+				width: 500px;
+				height: auto;
+			}
 		}
 	}
 
@@ -54,6 +62,12 @@ export const PageArea = styled.div`
 				p {
 					font-size: 15px;
 					line-height: 30px;
+				}
+			}
+
+			.rightSide {
+				img {
+					width: 400px;
 				}
 			}
 		}
@@ -78,6 +92,12 @@ export const PageArea = styled.div`
 				.icons {
 					flex-direction: column;
 					align-items: center;
+				}
+			}
+
+			.rightSide {
+				img {
+					width: 250px;
 				}
 			}
 		}
