@@ -7,22 +7,22 @@ export default function Header() {
 		<HeaderArea>
 			<div className="container">
 				<div className="leftSide">
-					<Link to={'/home'}>JÚLIO MANTA</Link>
+					<Link to={'/new/home'}>JÚLIO MANTA</Link>
 				</div>
 				<div className="rightSide">
-					<NavLink to={'/home'} activeClassName="active">
+					<NavLink to={'/new/home'} activeClassName="active">
 						HOME
 					</NavLink>
-					<NavLink to={'/work'} activeClassName="active">
+					<NavLink to={'/new/work'} activeClassName="active">
 						WORK
 					</NavLink>
-					<NavLink to={'/about'} activeClassName="active">
+					<NavLink to={'/new/about'} activeClassName="active">
 						ABOUT
 					</NavLink>
-					<NavLink to={'/story'} activeClassName="active">
+					<NavLink to={'/new/story'} activeClassName="active">
 						STORY
 					</NavLink>
-					<NavLink to={'/contact'} activeClassName="active">
+					<NavLink to={'/new/contact'} activeClassName="active">
 						CONTACT
 					</NavLink>
 				</div>

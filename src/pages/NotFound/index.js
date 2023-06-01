@@ -9,7 +9,9 @@ export default function Notfound() {
 		<>
 			<Header />
 			<motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-				<PageArea>Not Found</PageArea>
+				<PageArea>
+					<h1>Page not found...</h1>
+				</PageArea>
 			</motion.div>
 			<Footer />
 		</>
