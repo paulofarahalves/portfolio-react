@@ -43,13 +43,13 @@ export const HeaderArea = styled.div`
 		}
 	}
 
-	@media (max-width: 1024px) {
+	@media screen and (max-width: 1024px) {
 		.container {
 			padding: 20px 50px;
 		}
 	}
 
-	@media (max-width: 425px) {
+	@media screen and (max-width: 425px) {
 		.container {
 			padding: 20px 0px;
 			justify-content: center;

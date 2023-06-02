@@ -69,14 +69,14 @@ export const ModalItem = styled.div`
 		}
 	}
 
-	@media (max-width: 768px) {
+	@media screen and (max-width: 768px) {
 		#modal {
 			width: 95%;
 			font-size: 13px;
 		}
 	}
 
-	@media (max-width: 425px) {
+	@media screen and (max-width: 425px) {
 		#modal {
 			position: absolute;
 			top: 50%;

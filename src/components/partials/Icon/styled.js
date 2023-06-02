@@ -37,7 +37,7 @@ export const IconItem = styled.div`
 		}
 	}
 
-	@media (max-width: 425px) {
+	@media screen and (max-width: 425px) {
 		a {
 			margin: 20px 10px 0px 10px;
 			width: 40px;

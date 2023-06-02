@@ -56,7 +56,7 @@ export const PageArea = styled.div`
 		}
 	}
 
-	@media (max-width: 425px) {
+	@media screen and (max-width: 425px) {
 		padding: 100px 20px;
 
 		form {

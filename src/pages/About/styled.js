@@ -54,7 +54,7 @@ export const PageArea = styled.div`
 		}
 	}
 
-	@media (max-width: 1024px) {
+	@media screen and (max-width: 1024px) {
 		padding: 100px 50px;
 
 		.area {
@@ -73,7 +73,7 @@ export const PageArea = styled.div`
 		}
 	}
 
-	@media (max-width: 768px) {
+	@media screen and (max-width: 768px) {
 		.area {
 			flex-direction: column;
 			.rightSide {
@@ -82,7 +82,7 @@ export const PageArea = styled.div`
 		}
 	}
 
-	@media (max-width: 425px) {
+	@media screen and (max-width: 425px) {
 		.area {
 			.leftSide {
 				p {

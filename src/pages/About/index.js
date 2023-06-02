@@ -32,18 +32,23 @@ export default function About() {
 								and data. Leadership brings the best out of
 								people, teamwork allows us to achieve more than
 								by working alone, data maps the landscape, and
-								it is up to us to find the best path forward. By
-								working with start-ups and innovative companies,
-								I have learned that the combination of these
-								three elements in an environment of continuous
-								improvement and creativity is likely to surpass
-								expectations. By living abroad and through a
-								wide range of life settings, I have learned that
-								adaptability is key to turning chaos into order
-								consistently. By nurturing relationships with
-								people from various cultures and nations, I have
-								learned that communication is a powerful shaper
-								that builds and binds us. There is still much to
+								it is up to us to find the best path forward.
+							</p>
+							<p>
+								By working with start-ups and innovative
+								companies, I have learned that the combination
+								of these three elements in an environment of
+								continuous improvement and creativity is likely
+								to surpass expectations.
+							</p>
+							<p>
+								By living abroad and through a wide range of
+								life settings, I have learned that adaptability
+								is key to turning chaos into order consistently.
+								By nurturing relationships with people from
+								various cultures and nations, I have learned
+								that communication is a powerful shaper that
+								builds and binds us. There is still much to
 								learn, and I am just getting started.
 							</p>
 						</div>

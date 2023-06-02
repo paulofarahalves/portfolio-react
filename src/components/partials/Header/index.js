@@ -7,37 +7,22 @@ export default function Header() {
 		<HeaderArea>
 			<div className="container">
 				<div className="leftSide">
-					<Link to={'/portfolio-react/home'}>JÚLIO MANTA</Link>
+					<Link to={'/home'}>JÚLIO MANTA</Link>
 				</div>
 				<div className="rightSide">
-					<NavLink
-						to={'/portfolio-react/home'}
-						activeClassName="active"
-					>
+					<NavLink to={'/home'} activeClassName="active">
 						HOME
 					</NavLink>
-					<NavLink
-						to={'/portfolio-react/work'}
-						activeClassName="active"
-					>
+					<NavLink to={'/work'} activeClassName="active">
 						WORK
 					</NavLink>
-					<NavLink
-						to={'/portfolio-react/about'}
-						activeClassName="active"
-					>
+					<NavLink to={'/about'} activeClassName="active">
 						ABOUT
 					</NavLink>
-					<NavLink
-						to={'/portfolio-react/story'}
-						activeClassName="active"
-					>
+					<NavLink to={'/story'} activeClassName="active">
 						STORY
 					</NavLink>
-					<NavLink
-						to={'/portfolio-react/contact'}
-						activeClassName="active"
-					>
+					<NavLink to={'/contact'} activeClassName="active">
 						CONTACT
 					</NavLink>
 				</div>

@@ -16,7 +16,7 @@ export const PageArea = styled.div`
 	transform: translate(-50%, -50%);
 
 	.leftSide {
-		flex: 1;
+		flex: 2;
 
 		h3 {
 			font-size: 20px;
@@ -30,9 +30,22 @@ export const PageArea = styled.div`
 			margin-bottom: 20px;
 		}
 
-		h4 {
-			font-size: 20px;
+		ul {
+			display: inline-flex;
+			align-items: center;
+			justify-content: flex-start;
+			list-style-type: none;
+
+			li {
+				white-space: nowrap;
+				margin-right: 5px;
+			}
 			margin-bottom: 20px;
+		}
+
+		h4 {
+			font-size: 18px;
+			//margin-bottom: 20px;
 		}
 
 		p {
@@ -67,33 +80,63 @@ export const PageArea = styled.div`
 		}
 	}
 
-	@media (max-width: 1024px) {
+	@media screen and (max-width: 1024px) {
 		padding: 50px 50px;
+
+		.rightSide {
+			img {
+				height: 500px;
+			}
+		}
 	}
 
-	@media (max-width: 768px) {
+	@media screen and (max-width: 768px) {
 		flex-direction: column;
 		position: relative;
 		top: auto;
 		left: auto;
 		-webkit-transform: none;
 		transform: none;
+
+		.leftSide {
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			justify-content: center;
+			text-align: center;
+
+			.icons {
+				margin-left: 20px;
+			}
+		}
 	}
 
-	@media (max-width: 425px) {
+	@media screen and (max-width: 425px) {
 		padding: 100px 20px;
 
 		.leftSide {
 			text-align: center;
 
-			h4 span {
-				display: none;
+			ul {
+				flex-direction: column;
+				li {
+					margin-bottom: 10px;
+				}
+
+				span {
+					display: none;
+				}
+			}
+
+			p {
+				white-space: normal;
 			}
 
 			.icons {
 				flex-direction: column;
 				justify-content: center;
 				align-items: center;
+				margin-left: 0px;
 			}
 
 			.observation {

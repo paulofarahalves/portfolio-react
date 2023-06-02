@@ -17,11 +17,24 @@ export default function Home() {
 						<div className="leftSide">
 							<h3>WELCOME !</h3>
 							<h1>Júlio Manta Roberto</h1>
-							<h4>
-								Project Management <span> • </span>Business
-								Analysis <span> • </span>
-								Financial Analysis
-							</h4>
+							<ul>
+								<li>
+									<h4>
+										<span>•</span> Project Management
+									</h4>
+								</li>
+								<li>
+									<h4>
+										<span>•</span> Business Analysis
+									</h4>
+								</li>
+								<li>
+									<h4>
+										<span>•</span> Financial Analysis
+									</h4>
+								</li>
+							</ul>
+
 							<p>
 								Dedicated to managing through leadership.
 								Enthusiastic about data-driven strategies.
