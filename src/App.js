@@ -15,7 +15,7 @@ const App = () => {
 		<div className="app">
 			<AnimatePresence>
 				<Routes location={location} key={location.pathname}>
-					<Route path="/portfolio-react" element={<Home />} />
+					<Route path="/portfolio-react/" element={<Home />} />
 					<Route path="/portfolio-react/home" element={<Home />} />
 					<Route path="/portfolio-react/about" element={<About />} />
 					<Route path="/portfolio-react/work" element={<Work />} />
