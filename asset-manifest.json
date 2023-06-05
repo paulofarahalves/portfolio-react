@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "https://paulofarahalves.github.io/portfolio-react/static/css/main.5f57aa0f.css",
-    "main.js": "https://paulofarahalves.github.io/portfolio-react/static/js/main.4cc90968.js",
-    "static/js/73.eb9c6261.chunk.js": "https://paulofarahalves.github.io/portfolio-react/static/js/73.eb9c6261.chunk.js",
-    "static/js/966.502181f0.chunk.js": "https://paulofarahalves.github.io/portfolio-react/static/js/966.502181f0.chunk.js",
-    "static/js/805.501c36e9.chunk.js": "https://paulofarahalves.github.io/portfolio-react/static/js/805.501c36e9.chunk.js",
-    "static/js/768.3adf610c.chunk.js": "https://paulofarahalves.github.io/portfolio-react/static/js/768.3adf610c.chunk.js",
-    "static/media/about.png": "https://paulofarahalves.github.io/portfolio-react/static/media/about.ce2e9fc786bb1934b573.png",
-    "static/media/profile.png": "https://paulofarahalves.github.io/portfolio-react/static/media/profile.5d3ac8731130b909d703.png",
-    "static/media/bluemater.png": "https://paulofarahalves.github.io/portfolio-react/static/media/bluemater.675138f1dc68de8f775d.png",
-    "static/media/sedra.png": "https://paulofarahalves.github.io/portfolio-react/static/media/sedra.581b98e4afac19bdc574.png",
-    "static/media/Julio_M_Roberto_Resume.pdf": "https://paulofarahalves.github.io/portfolio-react/static/media/Julio_M_Roberto_Resume.692f488f44bc6eaea795.pdf",
-    "static/media/buyself.png": "https://paulofarahalves.github.io/portfolio-react/static/media/buyself.fdf012ced20ea0908919.png",
-    "static/media/inegi.png": "https://paulofarahalves.github.io/portfolio-react/static/media/inegi.54dc7b1e1af11f745bfe.png",
-    "index.html": "https://paulofarahalves.github.io/portfolio-react/index.html",
-    "main.5f57aa0f.css.map": "https://paulofarahalves.github.io/portfolio-react/static/css/main.5f57aa0f.css.map",
-    "main.4cc90968.js.map": "https://paulofarahalves.github.io/portfolio-react/static/js/main.4cc90968.js.map"
+    "main.css": "/portfolio-react/static/css/main.5f57aa0f.css",
+    "main.js": "/portfolio-react/static/js/main.7b3b17d5.js",
+    "static/js/784.e92158cc.chunk.js": "/portfolio-react/static/js/784.e92158cc.chunk.js",
+    "static/js/508.747382b1.chunk.js": "/portfolio-react/static/js/508.747382b1.chunk.js",
+    "static/js/685.4f11144c.chunk.js": "/portfolio-react/static/js/685.4f11144c.chunk.js",
+    "static/js/715.4eae89fd.chunk.js": "/portfolio-react/static/js/715.4eae89fd.chunk.js",
+    "static/media/about.png": "/portfolio-react/static/media/about.6daac7683b6f398b3241.png",
+    "static/media/companyy.png": "/portfolio-react/static/media/companyy.628425894f157f2b2b5e.png",
+    "static/media/profile.png": "/portfolio-react/static/media/profile.85c8a7a48bc27e3dce24.png",
+    "static/media/companyx.png": "/portfolio-react/static/media/companyx.75ef0e232c3fef9cdf78.png",
+    "static/media/companyw.png": "/portfolio-react/static/media/companyw.43cd0a7ad59bad7906d5.png",
+    "static/media/companyz.png": "/portfolio-react/static/media/companyz.d5b1e478d9e230b1e11f.png",
+    "static/media/resume.pdf": "/portfolio-react/static/media/resume.5ebf9c4d4046a7ac0485.pdf",
+    "index.html": "/portfolio-react/index.html",
+    "main.5f57aa0f.css.map": "/portfolio-react/static/css/main.5f57aa0f.css.map",
+    "main.7b3b17d5.js.map": "/portfolio-react/static/js/main.7b3b17d5.js.map"
   },
   "entrypoints": [
     "static/css/main.5f57aa0f.css",
-    "static/js/main.4cc90968.js"
+    "static/js/main.7b3b17d5.js"
   ]
 }
