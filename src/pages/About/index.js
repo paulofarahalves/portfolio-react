@@ -27,29 +27,28 @@ export default function About() {
 								<Icon title={'location'} />
 							</div>
 							<p>
-								I am a Brazilian that believes in the
-								transformational power of leadership, teamwork,
-								and data. Leadership brings the best out of
-								people, teamwork allows us to achieve more than
-								by working alone, data maps the landscape, and
-								it is up to us to find the best path forward.
+								Lorem ipsum dolor sit amet, consectetur
+								adipiscing elit. Vestibulum commodo elit at enim
+								dignissim mollis. Donec vitae volutpat dolor.
+								Etiam fringilla hendrerit bibendum. Pellentesque
+								finibus massa non dolor porta, vitae mattis
+								turpis suscipit. Quisque laoreet varius dictum.
 							</p>
 							<p>
-								By working with start-ups and innovative
-								companies, I have learned that the combination
-								of these three elements in an environment of
-								continuous improvement and creativity is likely
-								to surpass expectations.
+								Suspendisse potenti. Vivamus nec magna nec
+								turpis auctor pharetra sit amet ut purus.
+								Vestibulum suscipit nec mauris a feugiat. Ut
+								vulputate diam id pretium fermentum. Phasellus
+								dictum ac metus accumsan rhoncus.
 							</p>
 							<p>
-								By living abroad and through a wide range of
-								life settings, I have learned that adaptability
-								is key to turning chaos into order consistently.
-								By nurturing relationships with people from
-								various cultures and nations, I have learned
-								that communication is a powerful shaper that
-								builds and binds us. There is still much to
-								learn, and I am just getting started.
+								Sed nec placerat enim. Curabitur semper nisi
+								mauris, vel ultricies nunc fringilla eu. Morbi
+								aliquet at felis ut condimentum. Nullam eros
+								lectus, auctor vel suscipit vel, porttitor ac
+								nisi. Ut ac libero nec justo volutpat fermentum
+								vel consectetur turpis. Mauris dignissim euismod
+								nisi. Integer et elit at augue egestas gravida.
 							</p>
 						</div>
 						<div className="rightSide">

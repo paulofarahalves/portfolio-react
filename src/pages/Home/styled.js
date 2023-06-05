@@ -75,8 +75,8 @@ export const PageArea = styled.div`
 		align-items: flex-start;
 
 		img {
-			height: 600px;
-			margin-top: -40px;
+			height: 500px;
+			//margin-top: -40px;
 		}
 	}
 

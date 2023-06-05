@@ -16,7 +16,7 @@ export default function Footer() {
 			<FooterArea>
 				<div className="container">
 					<a
-						href="mailto:juliomrm@hotmail.com"
+						href={`mailto:email@hotmail.com`}
 						target="_blank"
 						rel="noreferrer"
 						onMouseEnter={() => {
@@ -27,10 +27,10 @@ export default function Footer() {
 						}}
 					>
 						<FiMail stroke={emailColor} />
-						<span>juliomrm@hotmail.com</span>
+						<span>email@mail.com</span>
 					</a>
 					<a
-						href="https://api.whatsapp.com/send/?phone=%2B5511939278967&text&type=phone_number&app_absent=0"
+						href="https://api.whatsapp.com/send/?phone=%2B5644561132146&text&type=phone_number&app_absent=0"
 						target="_blank"
 						rel="noreferrer"
 						onMouseEnter={() => {
@@ -41,10 +41,10 @@ export default function Footer() {
 						}}
 					>
 						<FaWhatsapp fill={whatsappColor} />
-						<span>+55 11 939278967⠀</span>
+						<span>+55 11 123456789⠀</span>
 					</a>
 					<a
-						href="https://www.linkedin.com/in/juliomanta/"
+						href="https://www.linkedin.com/in/paulofarahalves/"
 						target="_blank"
 						rel="noreferrer"
 						onMouseEnter={() => {
@@ -55,7 +55,7 @@ export default function Footer() {
 						}}
 					>
 						<FaLinkedin fill={linkedinColor} />
-						<span>juliomanta</span>
+						<span>Your Likedin</span>
 					</a>
 				</div>
 			</FooterArea>

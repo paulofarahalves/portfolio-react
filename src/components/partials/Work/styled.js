@@ -20,8 +20,10 @@ export const WorkItem = styled.div`
 	}
 
 	img {
-		width: 200px;
-		height: 200px;
+		width: 150px;
+		height: auto;
+		margin-top: 60px;
+		margin-bottom: 30px;
 	}
 
 	.type {

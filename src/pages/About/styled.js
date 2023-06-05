@@ -48,7 +48,7 @@ export const PageArea = styled.div`
 			align-items: flex-end;
 
 			img {
-				width: 500px;
+				width: 400px;
 				height: auto;
 			}
 		}
@@ -97,7 +97,7 @@ export const PageArea = styled.div`
 
 			.rightSide {
 				img {
-					width: 250px;
+					width: 200px;
 				}
 			}
 		}

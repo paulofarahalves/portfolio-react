@@ -6,7 +6,7 @@ import {
 	FaMapMarkerAlt,
 } from 'react-icons/fa';
 import { GrMail } from 'react-icons/gr';
-import Pdf from '../../../assets/files/Julio_M_Roberto_Resume.pdf';
+import Pdf from '../../../assets/files/resume.pdf';
 import { textColor, primaryColor } from '../../../helpers/colors';
 import { IconItem } from './styled';
 
@@ -23,14 +23,14 @@ export default function Icon({ title }) {
 
 	switch (title) {
 		case 'linkedin':
-			href = 'https://www.linkedin.com/in/juliomanta/';
+			href = 'https://www.linkedin.com/in/paulofarahalves/';
 			break;
 		case 'email':
-			href = 'mailto:juliomrm@hotmail.com';
+			href = 'mailto:email@mail.com';
 			break;
 		case 'whatsapp':
 			href =
-				'https://api.whatsapp.com/send/?phone=%2B5511939278967&text&type=phone_number&app_absent=0';
+				'https://api.whatsapp.com/send/?phone=%2B5511123456789&text&type=phone_number&app_absent=0';
 			break;
 		case 'resume':
 			href = Pdf;

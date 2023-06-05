@@ -15,95 +15,86 @@ export default function About() {
 					<div className="area">
 						<div className="leftSide">
 							<p>
-								During my time at university, I co-founded a
-								sustainable innovation start-up called Sedra. We
-								created it around a business model focused on
-								circular economy. After winning the Desafio
-								Unicamp 2016 (Unicamp Challenge) under the
-								fantasy name Equipe Cristalina and achieving
-								some visibility, I got the opportunity to go to
-								Portugal to learn from Bluemater, an innovative
-								company with a similar business model. The
-								company was also founded as a sustainable
-								innovation start-up. It had been incubated by
-								UPTEC and was starting to scale its business.
+								Lorem ipsum dolor sit amet, consectetur
+								adipiscing elit. Vestibulum commodo elit at enim
+								dignissim mollis. Donec vitae volutpat dolor.
+								Etiam fringilla hendrerit bibendum. Pellentesque
+								finibus massa non dolor porta, vitae mattis
+								turpis suscipit. Quisque laoreet varius dictum.
+								Interdum et malesuada fames ac ante ipsum primis
+								in faucibus. Integer varius arcu ex. Cras
+								eleifend lobortis posuere.
 							</p>
 							<p>
-								I intended to work with them as an
-								entrepreneur-in-residence for three months,
-								learn from their expertise, and then go back to
-								Brazil to take Sedra to the next level. However,
-								during my stay, I received a proposal to join
-								the company and become a key team member in the
-								company scaling – as they had just been
-								successful in raising capital. I accepted the
-								proposal, stopped working on Sedra, and moved to
-								Europe.
+								Suspendisse potenti. Vivamus nec magna nec
+								turpis auctor pharetra sit amet ut purus.
+								Vestibulum suscipit nec mauris a feugiat. Ut
+								vulputate diam id pretium fermentum. Phasellus
+								dictum ac metus accumsan rhoncus. Donec ac
+								libero mi. Nulla vehicula tortor a mauris
+								dapibus, vitae facilisis velit euismod. Nullam
+								faucibus, quam sed pellentesque porta, ex mauris
+								ornare mi, ut sagittis dui lacus sit amet dolor.
 							</p>
 							<p>
-								In Portugal, I worked with project planning,
-								project management, business analysis, and
-								financial analysis in a fast-paced and rapidly
-								changing environment for two and a half years. I
-								transferred my BSc course in engineering from
-								Unicamp to the integrated MSc course (BSc + MSc)
-								of the University of Porto. Throughout that work
-								period, I sharpened my cross-functional
-								collaboration skills and learned the benefits
-								and challenges of working with stakeholders
-								across time zones.
+								Sed nec placerat enim. Curabitur semper nisi
+								mauris, vel ultricies nunc fringilla eu. Morbi
+								aliquet at felis ut condimentum. Nullam eros
+								lectus, auctor vel suscipit vel, porttitor ac
+								nisi. Ut ac libero nec justo volutpat fermentum
+								vel consectetur turpis. Mauris dignissim euismod
+								nisi. Integer et elit at augue egestas gravida.
+								Etiam luctus blandit condimentum. Mauris quam
+								turpis, fringilla eu quam at, ultrices aliquet
+								diam. Vestibulum a sapien eget erat pretium
+								luctus. Phasellus urna erat, molestie id blandit
+								eget, laoreet ut neque. Donec sit amet leo nec
+								mi viverra viverra. Cras vel magna vitae quam
+								blandit lobortis. Mauris aliquet ornare massa
+								vitae pharetra.
 							</p>
 							<p>
-								I traveled to different countries to represent
-								the company, built business relationships with
-								people from different cultures, raised capital
-								from a European Fund, and coordinated
-								simultaneous projects reporting directly to
-								executive management – all the while studying
-								for my integrated master’s degree. After two and
-								a half years, I decided to leave the company to
-								focus on and complete my master’s, so I could go
-								back to Brazil and resume my career in my
-								homeland.
+								Quisque suscipit orci at diam aliquet gravida.
+								Praesent iaculis turpis enim, non euismod nisl
+								tempus non. Interdum et malesuada fames ac ante
+								ipsum primis in faucibus. Donec nec suscipit
+								nisl. Vestibulum aliquam viverra maximus. Etiam
+								pellentesque sodales tristique. Quisque sed dui
+								accumsan, elementum ante id, consequat magna.
+								Nunc nec nisi dapibus, tincidunt urna sed,
+								aliquam ligula. Quisque in laoreet ex, ornare
+								ornare arcu.
 							</p>
 							<p>
-								Once I left the company, one of our business
-								partners approached me to work as a project
-								manager there. Although it was a good
-								opportunity, it would take me in the opposite
-								direction of my plan. At the same time, they had
-								noticed shortfalls in their pricing strategy for
-								B2B projects with corporate clients. So, I made
-								them a counterproposal: I would analyze their
-								business, evaluate their past projects and
-								results, and develop a project valuation model
-								to estimate the fair value of projects and
-								improve the pricing strategy. And this is how I
-								started working with Inegi, an innovation
-								development services and consulting firm.
+								Ut non malesuada nulla. Lorem ipsum dolor sit
+								amet, consectetur adipiscing elit. Phasellus
+								condimentum, tortor in consequat porttitor, nunc
+								sem mollis erat, sit amet euismod enim leo non
+								purus. Donec egestas quis metus eu pulvinar.
+								Suspendisse dapibus nunc ac est tempor
+								sollicitudin. Sed bibendum metus id augue
+								aliquam, condimentum accumsan lectus convallis.
 							</p>
 							<p>
-								I successfully developed the valuation model,
-								identified considerable differences between
-								project pricing and fair value, recommended
-								pricing strategy improvements to executive
-								management, and presented this work as my MSc
-								dissertation. After that, I was ready to go
-								back.
+								Vestibulum ante ipsum primis in faucibus orci
+								luctus et ultrices posuere cubilia curae; Fusce
+								vitae blandit magna. Vestibulum ante ipsum
+								primis in faucibus orci luctus et ultrices
+								posuere cubilia curae; Nunc finibus facilisis
+								eros, non scelerisque nisi placerat at.
 							</p>
 							<p>
-								I arrived in Brazil in 2021. And after a
-								well-earned vacation period, I started working
-								with Buyself. The start-up is rapidly growing
-								its micromarket business and starting its
-								expansion into online marketplaces. The
-								corporate development goal is to raise capital
-								to expand and invest in growth. My role is to
-								guide them through capital raising, analyze
-								their business and financial performance,
-								evaluate the company, develop and improve
-								business processes, and advise on scaling and
-								growth strategies.
+								Maecenas pellentesque, neque quis ullamcorper
+								fermentum, risus lorem dictum purus, ac
+								elementum lacus purus at ex. Mauris convallis
+								porta augue non vestibulum. Ut dapibus sit amet
+								tellus a consectetur. Phasellus ut justo
+								ullamcorper, viverra odio at, dictum velit.
+								Curabitur et lacus id ligula ultrices iaculis
+								sit amet aliquet velit. Aenean laoreet, arcu sit
+								amet accumsan pellentesque, neque sapien
+								molestie ante, id pellentesque mauris magna sed
+								sem.
 							</p>
 						</div>
 						<div className="rightSide">

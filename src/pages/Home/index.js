@@ -16,7 +16,7 @@ export default function Home() {
 					<PageArea>
 						<div className="leftSide">
 							<h3>WELCOME !</h3>
-							<h1>Júlio Manta Roberto</h1>
+							<h1>John Doe</h1>
 							<ul>
 								<li>
 									<h4>
