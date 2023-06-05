@@ -1,5 +1,6 @@
 {
 	"name": "portfolio-react",
+	"homepage": "https://paulofarahalves.github.io/portfolio-react/home",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
